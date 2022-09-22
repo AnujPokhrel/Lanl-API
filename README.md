@@ -8,4 +8,4 @@ Getting Started with the application
 
   You can also go to 'localhost:8000/graphql' to look at the Graphql detailed api page
   
-Your Pretrained model should be copied to 'ner_api/static/' folder. while choosing the model in frontend enter '/static/{name_of_model}'
+Your Pretrained model should be copied to 'ner_api/static/' folder. while choosing the model in frontend enter 'static/{name_of_model}'
